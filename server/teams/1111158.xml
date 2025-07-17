@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team id="1111158" status="7">
+  <coach>Garcangel</coach>
+  <name>Witchington Commies</name>
+  <rosterId>4959</rosterId>
+  <reRolls>6</reRolls>
+  <dedicatedFans>6</dedicatedFans>
+  <apothecaries>1</apothecaries>
+  <cheerleaders>0</cheerleaders>
+  <assistantCoaches>0</assistantCoaches>
+  <rating>236</rating>
+  <teamValue>2500000</teamValue>
+  <currentTeamValue>2360000</currentTeamValue>
+  <strength>236</strength>
+  <division>5</division>
+  <treasury>300000</treasury>
+  <tournamentWeight>2500000</tournamentWeight>
+  <specialRules>
+    <rule>Elven Kingdoms League</rule>
+  </specialRules>
+  <record>
+    <form>LDDWW</form>
+    <wins>33</wins>
+    <ties>16</ties>
+    <losses>21</losses>
+  </record>
+  <lastMatch date="2025-07-10" opponent="1132173">4636239</lastMatch>
+  <baseIconPath>https://cdn.fumbbl.com/</baseIconPath>
+  <logo>i/707930</logo>
+  <player status="Active" nr="1" id="15688255">
+    <name>Dr. Demento Jr [UM]</name>
+    <gender>nonbinary</gender>
+    <positionId>37736</positionId>
+    <position>Blitzer</position>
+    <playerStatistics currentSpps="29">
+      <completions>1</completions>
+      <touchdowns>27</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>2</casualties>
+      <mvps>5</mvps>
+      <passing>4</passing>
+      <rushing>291</rushing>
+      <blocks>53</blocks>
+      <fouls>0</fouls>
+      <games>51</games>
+    </playerStatistics>
+    <skillList>
+      <skill>+MA</skill>
+      <skill>+MA</skill>
+      <skill>Dodge</skill>
+      <skill>Guard</skill>
+      <skill>Leap</skill>
+      <skill>Side Step</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Serious Injury (NI)</injury>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="2" id="16560491">
+    <name>Ricky Williams [UT]</name>
+    <gender>male</gender>
+    <positionId>37736</positionId>
+    <position>Blitzer</position>
+    <playerStatistics currentSpps="29">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>21</casualties>
+      <mvps>2</mvps>
+      <passing>0</passing>
+      <rushing>44</rushing>
+      <blocks>260</blocks>
+      <fouls>0</fouls>
+      <games>26</games>
+    </playerStatistics>
+    <skillList>
+      <skill>+ST</skill>
+      <skill>Dodge</skill>
+      <skill>Guard</skill>
+      <skill>Mighty Blow</skill>
+      <skill>Stand Firm</skill>
+      <skill>Tackle</skill>
+    </skillList>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="3" id="17048313">
+    <name>Tim Rattay [LSU]</name>
+    <gender>neutral</gender>
+    <positionId>37736</positionId>
+    <position>Blitzer</position>
+    <playerStatistics currentSpps="12">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>6</rushing>
+      <blocks>24</blocks>
+      <fouls>0</fouls>
+      <games>10</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Dodge</skill>
+      <skill>Guard</skill>
+      <skill>Tackle</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="4" id="16611727">
+    <name>Bobby Mitchell IV</name>
+    <gender>female</gender>
+    <positionId>37736</positionId>
+    <position>Blitzer</position>
+    <playerStatistics currentSpps="5">
+      <completions>1</completions>
+      <touchdowns>4</touchdowns>
+      <interceptions>1</interceptions>
+      <casualties>0</casualties>
+      <mvps>1</mvps>
+      <passing>2</passing>
+      <rushing>45</rushing>
+      <blocks>34</blocks>
+      <fouls>0</fouls>
+      <games>24</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Dodge</skill>
+      <skill>Side Step</skill>
+    </skillList>
+    <injuryList>
+      <injury recovering="true">Seriously Hurt (MNG)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="5" id="15348593">
+    <name>Jeff George 14</name>
+    <gender>nonbinary</gender>
+    <positionId>37735</positionId>
+    <position>Runner</position>
+    <playerStatistics currentSpps="26">
+      <completions>56</completions>
+      <touchdowns>14</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>7</mvps>
+      <passing>81</passing>
+      <rushing>905</rushing>
+      <blocks>11</blocks>
+      <fouls>0</fouls>
+      <games>69</games>
+    </playerStatistics>
+    <skillList>
+      <skill>+MA</skill>
+      <skill>+MA</skill>
+      <skill>+PA</skill>
+      <skill>Cannoneer</skill>
+      <skill>Pass</skill>
+    </skillList>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="6" id="15688259">
+    <name>Hill</name>
+    <gender>nonbinary</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="11">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>2</casualties>
+      <mvps>4</mvps>
+      <passing>0</passing>
+      <rushing>30</rushing>
+      <blocks>98</blocks>
+      <fouls>0</fouls>
+      <games>51</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+      <skill>Dodge</skill>
+      <skill>Guard</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="7" id="15694163">
+    <name>Margus Hunt [SMU]</name>
+    <gender>female</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="7">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>3</mvps>
+      <passing>0</passing>
+      <rushing>5</rushing>
+      <blocks>19</blocks>
+      <fouls>86</fouls>
+      <games>50</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Dirty Player</skill>
+      <skill>Kick</skill>
+      <skill>Sneaky Git</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="8" id="16137789">
+    <name>Art Monk II</name>
+    <gender>male</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="10">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>3</casualties>
+      <mvps>2</mvps>
+      <passing>0</passing>
+      <rushing>-1</rushing>
+      <blocks>64</blocks>
+      <fouls>1</fouls>
+      <games>38</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+      <skill>Dodge</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="9" id="16750318">
+    <name>Gilcarit Adaon</name>
+    <gender>nonbinary</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>-1</rushing>
+      <blocks>33</blocks>
+      <fouls>0</fouls>
+      <games>18</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Dodge</skill>
+      <skill>Wrestle</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="10" id="16761667">
+    <name>Tivandi Winding</name>
+    <gender>female</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="1">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>3</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>2</blocks>
+      <fouls>18</fouls>
+      <games>17</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Dirty Player</skill>
+      <skill>Sneaky Git</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="11" id="16750317">
+    <name>Gili Ephram</name>
+    <gender>male</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="2">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>2</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>-5</rushing>
+      <blocks>23</blocks>
+      <fouls>1</fouls>
+      <games>16</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+      <skill>Dodge</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+      <injury>Serious Injury (NI)</injury>
+      <injury>Serious Injury (NI)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="12" id="17048311">
+    <name>Mark May VII</name>
+    <gender>female</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="7">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>1</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>-1</rushing>
+      <blocks>12</blocks>
+      <fouls>0</fouls>
+      <games>10</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="13" id="17204594">
+    <name>Lanafa Gutar</name>
+    <gender>male</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>1</blocks>
+      <fouls>0</fouls>
+      <games>3</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="14" id="17204596">
+    <name>Lenuvae Erthe</name>
+    <gender>female</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>2</blocks>
+      <fouls>0</fouls>
+      <games>3</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="15" id="17233318">
+    <name>Milari Otho</name>
+    <gender>female</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>0</blocks>
+      <fouls>0</fouls>
+      <games>1</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="16" id="17233312">
+    <name>Dallin Boliva</name>
+    <gender>male</gender>
+    <positionId>37734</positionId>
+    <position>Dark Elf Lineman</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>1</blocks>
+      <fouls>0</fouls>
+      <games>1</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+</team>

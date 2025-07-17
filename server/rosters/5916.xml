@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roster id="5916">
+  <name>Khorne</name>
+  <type>Regular</type>
+  <reRollCost>60000</reRollCost>
+  <maxReRolls>8</maxReRolls>
+  <baseIconPath>https://cdn.fumbbl.com/</baseIconPath>
+  <logo>i/681361</logo>
+  <raisedPositionId>37797</raisedPositionId>
+  <apothecary>true</apothecary>
+  <necromancer>false</necromancer>
+  <undead>false</undead>
+  <nameGenerator>default</nameGenerator>
+  <maxBigGuys>1</maxBigGuys>
+  <keywords/>
+  <position id="44635">
+    <quantity>16</quantity>
+    <name>Bloodborn Marauder Lineman</name>
+    <shorthand>L</shorthand>
+    <type>Regular</type>
+    <gender>random</gender>
+    <cost>50000</cost>
+    <movement>6</movement>
+    <strength>3</strength>
+    <agility>3</agility>
+    <passing>4</passing>
+    <armour>8</armour>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/682595</portrait>
+    <iconSet size="7" mimeType="image/png">i/682594.png</iconSet>
+    <skillList>
+      <skill>Frenzy</skill>
+    </skillList>
+    <skillCategoryList>
+      <normal>General</normal>
+      <normal>Mutations</normal>
+      <double>Agility</double>
+      <double>Strength</double>
+    </skillCategoryList>
+    <keywords/>
+  </position>
+  <position id="44636">
+    <quantity>4</quantity>
+    <name>Khorngor</name>
+    <shorthand>K</shorthand>
+    <type>Regular</type>
+    <gender>random</gender>
+    <cost>70000</cost>
+    <movement>6</movement>
+    <strength>3</strength>
+    <agility>3</agility>
+    <passing>4</passing>
+    <armour>9</armour>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/682596</portrait>
+    <iconSet size="4" mimeType="image/png">i/692163.png</iconSet>
+    <skillList>
+      <skill>Horns</skill>
+      <skill>Juggernaut</skill>
+    </skillList>
+    <skillCategoryList>
+      <normal>General</normal>
+      <normal>Strength</normal>
+      <normal>Mutations</normal>
+      <double>Passing</double>
+      <double>Agility</double>
+    </skillCategoryList>
+    <keywords/>
+  </position>
+  <position id="44637">
+    <quantity>4</quantity>
+    <name>Bloodseeker</name>
+    <shorthand>B</shorthand>
+    <type>Regular</type>
+    <gender>random</gender>
+    <cost>110000</cost>
+    <movement>5</movement>
+    <strength>4</strength>
+    <agility>4</agility>
+    <passing>6</passing>
+    <armour>10</armour>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/682599</portrait>
+    <iconSet size="4" mimeType="image/png">i/692162.png</iconSet>
+    <skillList>
+      <skill>Frenzy</skill>
+    </skillList>
+    <skillCategoryList>
+      <normal>General</normal>
+      <normal>Strength</normal>
+      <normal>Mutations</normal>
+      <double>Agility</double>
+    </skillCategoryList>
+    <keywords/>
+  </position>
+  <position id="44638">
+    <quantity>1</quantity>
+    <name>Bloodspawn</name>
+    <shorthand>BS</shorthand>
+    <type>Big Guy</type>
+    <gender>neutral</gender>
+    <cost>160000</cost>
+    <movement>5</movement>
+    <strength>5</strength>
+    <agility>4</agility>
+    <passing>
+    </passing>
+    <armour>9</armour>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/682601</portrait>
+    <iconSet size="1" mimeType="image/png">i/682600.png</iconSet>
+    <skillList>
+      <skill>Claws</skill>
+      <skill>Frenzy</skill>
+      <skill value="4">Loner</skill>
+      <skill value="1">Mighty Blow</skill>
+      <skill>Unchannelled Fury</skill>
+    </skillList>
+    <skillCategoryList>
+      <normal>Strength</normal>
+      <normal>Mutations</normal>
+      <double>General</double>
+      <double>Agility</double>
+    </skillCategoryList>
+    <keywords/>
+  </position>
+  <position id="39459">
+    <race>Special</race>
+    <quantity>1</quantity>
+    <name>Grak</name>
+    <shorthand>Gr</shorthand>
+    <type>Star</type>
+    <gender>male</gender>
+    <cost>250000</cost>
+    <movement>5</movement>
+    <strength>5</strength>
+    <agility>4</agility>
+    <passing>4</passing>
+    <armour>10</armour>
+    <teamWithPositionId>39460</teamWithPositionId>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/674104</portrait>
+    <iconSet size="1" mimeType="image/gif">i/674105.gif</iconSet>
+    <skillList>
+      <skill>Bone Head</skill>
+      <skill>Kick Team-mate</skill>
+      <skill value="4">Loner</skill>
+      <skill value="1">Mighty Blow</skill>
+      <skill>Thick Skull</skill>
+      <skill>Two for One</skill>
+    </skillList>
+    <skillCategoryList/>
+    <keywords/>
+  </position>
+  <position id="39460">
+    <race>Special</race>
+    <quantity>1</quantity>
+    <name>Crumbleberry</name>
+    <shorthand>Cr</shorthand>
+    <type>Star</type>
+    <gender>male</gender>
+    <cost>0</cost>
+    <movement>5</movement>
+    <strength>2</strength>
+    <agility>3</agility>
+    <passing>6</passing>
+    <armour>7</armour>
+    <teamWithPositionId>39459</teamWithPositionId>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/674107</portrait>
+    <iconSet size="1" mimeType="image/gif">i/674106.gif</iconSet>
+    <skillList>
+      <skill>Dodge</skill>
+      <skill value="4">Loner</skill>
+      <skill>Right Stuff</skill>
+      <skill>Stunty</skill>
+      <skill>Sure Hands</skill>
+      <skill>Two for One</skill>
+    </skillList>
+    <skillCategoryList/>
+    <keywords/>
+  </position>
+  <position id="39465">
+    <race>Special</race>
+    <quantity>1</quantity>
+    <name>Helmut Wulf</name>
+    <shorthand>HW</shorthand>
+    <type>Star</type>
+    <gender>male</gender>
+    <cost>140000</cost>
+    <movement>6</movement>
+    <strength>3</strength>
+    <agility>3</agility>
+    <passing>0</passing>
+    <armour>9</armour>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/674065</portrait>
+    <iconSet size="1" mimeType="image/png">i/674066.png</iconSet>
+    <skillList>
+      <skill>Chainsaw</skill>
+      <skill value="4">Loner</skill>
+      <skill>Old Pro</skill>
+      <skill>Pro</skill>
+      <skill>Secret Weapon</skill>
+      <skill>Stand Firm</skill>
+    </skillList>
+    <skillCategoryList/>
+    <keywords/>
+  </position>
+  <position id="44743">
+    <race>Special</race>
+    <quantity>1</quantity>
+    <name>Akhorne the Squirrel</name>
+    <shorthand>SQ</shorthand>
+    <type>Star</type>
+    <gender>neutral</gender>
+    <cost>80000</cost>
+    <movement>7</movement>
+    <strength>1</strength>
+    <agility>2</agility>
+    <passing>
+    </passing>
+    <armour>6</armour>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/682637</portrait>
+    <iconSet size="1" mimeType="image/png">i/682638.png</iconSet>
+    <skillList>
+      <skill>Blind Rage</skill>
+      <skill>Claws</skill>
+      <skill>Dauntless</skill>
+      <skill>Dodge</skill>
+      <skill>Frenzy</skill>
+      <skill>Jump Up</skill>
+      <skill value="4">Loner</skill>
+      <skill>No Hands</skill>
+      <skill>Side Step</skill>
+      <skill>Stunty</skill>
+      <skill>Titchy</skill>
+    </skillList>
+    <skillCategoryList/>
+    <keywords/>
+  </position>
+  <position id="47520">
+    <race>Special</race>
+    <quantity>1</quantity>
+    <name>Josef Bugman</name>
+    <shorthand>JB</shorthand>
+    <type>Infamous Staff</type>
+    <gender>male</gender>
+    <cost>100000</cost>
+    <movement>5</movement>
+    <strength>3</strength>
+    <agility>3</agility>
+    <passing>6</passing>
+    <armour>9</armour>
+    <undead>false</undead>
+    <thrall>false</thrall>
+    <replacesPosition>
+    </replacesPosition>
+    <portrait>i/699505</portrait>
+    <iconSet size="1" mimeType="image/png">i/694538.png</iconSet>
+    <skillList>
+      <skill>Bugman's XXXXXX</skill>
+      <skill>Keen Player</skill>
+      <skill value="5">Loner</skill>
+      <skill>Tackle</skill>
+      <skill>Thick Skull</skill>
+      <skill>Wrestle</skill>
+    </skillList>
+    <skillCategoryList/>
+    <keywords>
+      <keyword>dwarf</keyword>
+    </keywords>
+  </position>
+</roster>
+<!-- Time: 0.011056900024414 -->

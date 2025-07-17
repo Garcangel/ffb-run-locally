@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team id="1222627" status="1">
+  <coach>asteflix</coach>
+  <name>Chicago Football Team</name>
+  <rosterId>5916</rosterId>
+  <reRolls>6</reRolls>
+  <dedicatedFans>5</dedicatedFans>
+  <apothecaries>1</apothecaries>
+  <cheerleaders>0</cheerleaders>
+  <assistantCoaches>0</assistantCoaches>
+  <rating>210</rating>
+  <teamValue>2260000</teamValue>
+  <currentTeamValue>2100000</currentTeamValue>
+  <strength>210</strength>
+  <division>5</division>
+  <treasury>150000</treasury>
+  <tournamentWeight>2260000</tournamentWeight>
+  <specialRules>
+    <rule>Favoured of Khorne</rule>
+  </specialRules>
+  <record>
+    <form>LDWDL</form>
+    <wins>4</wins>
+    <ties>4</ties>
+    <losses>5</losses>
+  </record>
+  <lastMatch date="2025-07-12" opponent="1163833">4636650</lastMatch>
+  <baseIconPath>https://cdn.fumbbl.com/</baseIconPath>
+  <player status="Active" nr="1" id="17183836">
+    <name>John Peacesword</name>
+    <gender>male</gender>
+    <positionId>44638</positionId>
+    <position>Bloodspawn</position>
+    <playerStatistics currentSpps="2">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>1</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>25</blocks>
+      <fouls>0</fouls>
+      <games>5</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList>
+      <injury recovering="true">Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="2" id="17039126">
+    <name>Shane Skadi [TT]</name>
+    <gender>female</gender>
+    <positionId>44637</positionId>
+    <position>Bloodseeker</position>
+    <playerStatistics currentSpps="15">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>8</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>9</rushing>
+      <blocks>69</blocks>
+      <fouls>0</fouls>
+      <games>12</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+      <skill>Guard</skill>
+      <skill>Mighty Blow</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="3" id="17039127">
+    <name>Zach Herb-Smasher [RamSt]</name>
+    <gender>nonbinary</gender>
+    <positionId>44637</positionId>
+    <position>Bloodseeker</position>
+    <playerStatistics currentSpps="7">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>8</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>10</rushing>
+      <blocks>80</blocks>
+      <fouls>2</fouls>
+      <games>13</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+      <skill>Claws</skill>
+      <skill>Guard</skill>
+      <skill>Mighty Blow</skill>
+    </skillList>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="4" id="17039128">
+    <name>Jax Messchoro [TT]</name>
+    <gender>male</gender>
+    <positionId>44637</positionId>
+    <position>Bloodseeker</position>
+    <playerStatistics currentSpps="9">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>3</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>64</blocks>
+      <fouls>1</fouls>
+      <games>12</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+      <skill>Guard</skill>
+      <skill>Mighty Blow</skill>
+      <skill>Stand Firm</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="5" id="17039129">
+    <name>Ariana Lyne</name>
+    <gender>neutral</gender>
+    <positionId>44637</positionId>
+    <position>Bloodseeker</position>
+    <playerStatistics currentSpps="1">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>4</casualties>
+      <mvps>3</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>60</blocks>
+      <fouls>1</fouls>
+      <games>12</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+      <skill>Guard</skill>
+      <skill>Mighty Blow</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="6" id="17239641">
+    <name>Brynn Szene</name>
+    <gender>female</gender>
+    <positionId>44636</positionId>
+    <position>Khorngor</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>0</blocks>
+      <fouls>0</fouls>
+      <games>0</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="7" id="17239642">
+    <name>Alayna Dime</name>
+    <gender>neutral</gender>
+    <positionId>44636</positionId>
+    <position>Khorngor</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>0</blocks>
+      <fouls>0</fouls>
+      <games>0</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="8" id="17123472">
+    <name>Lyla Kolmorn</name>
+    <gender>nonbinary</gender>
+    <positionId>44636</positionId>
+    <position>Khorngor</position>
+    <playerStatistics currentSpps="4">
+      <completions>0</completions>
+      <touchdowns>2</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>2</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>58</rushing>
+      <blocks>8</blocks>
+      <fouls>0</fouls>
+      <games>7</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Frenzy</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="9" id="17039133">
+    <name>Reid Celinn</name>
+    <gender>male</gender>
+    <positionId>44636</positionId>
+    <position>Khorngor</position>
+    <playerStatistics currentSpps="9">
+      <completions>0</completions>
+      <touchdowns>2</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>1</casualties>
+      <mvps>2</mvps>
+      <passing>0</passing>
+      <rushing>43</rushing>
+      <blocks>17</blocks>
+      <fouls>0</fouls>
+      <games>12</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+      <skill>Frenzy</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="10" id="17123473">
+    <name>Isla Tabithi</name>
+    <gender>female</gender>
+    <positionId>44635</positionId>
+    <position>Bloodborn Marauder Lineman</position>
+    <playerStatistics currentSpps="4">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>8</rushing>
+      <blocks>4</blocks>
+      <fouls>1</fouls>
+      <games>9</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="11" id="17039135">
+    <name>Peyton Wisdum</name>
+    <gender>male</gender>
+    <positionId>44635</positionId>
+    <position>Bloodborn Marauder Lineman</position>
+    <playerStatistics currentSpps="1">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>2</blocks>
+      <fouls>26</fouls>
+      <games>11</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Dirty Player</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="12" id="17039136">
+    <name>Jameson Bolwerk</name>
+    <gender>neutral</gender>
+    <positionId>44635</positionId>
+    <position>Bloodborn Marauder Lineman</position>
+    <playerStatistics currentSpps="8">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>7</rushing>
+      <blocks>9</blocks>
+      <fouls>17</fouls>
+      <games>13</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Dirty Player</skill>
+    </skillList>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="13" id="17156395">
+    <name>Josie Zannan</name>
+    <gender>female</gender>
+    <positionId>44635</positionId>
+    <position>Bloodborn Marauder Lineman</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>8</rushing>
+      <blocks>0</blocks>
+      <fouls>0</fouls>
+      <games>5</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="14" id="17039139">
+    <name>Mario Madison [CAR]</name>
+    <gender>male</gender>
+    <positionId>44635</positionId>
+    <position>Bloodborn Marauder Lineman</position>
+    <playerStatistics currentSpps="3">
+      <completions>0</completions>
+      <touchdowns>2</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>2</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>33</rushing>
+      <blocks>18</blocks>
+      <fouls>1</fouls>
+      <games>11</games>
+    </playerStatistics>
+    <skillList>
+      <skill>+AV</skill>
+      <skill>Block</skill>
+      <skill>Guard</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="15" id="17039125">
+    <name>Charles M. Schultz [UmGO]</name>
+    <gender>male</gender>
+    <positionId>44635</positionId>
+    <position>Bloodborn Marauder Lineman</position>
+    <playerStatistics currentSpps="36">
+      <completions>1</completions>
+      <touchdowns>8</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>1</passing>
+      <rushing>129</rushing>
+      <blocks>32</blocks>
+      <fouls>0</fouls>
+      <games>12</games>
+    </playerStatistics>
+    <skillList>
+      <skill>+ST</skill>
+      <skill>Block</skill>
+      <skill>Defensive</skill>
+      <skill>Dodge</skill>
+      <skill>Guard</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+</team>
