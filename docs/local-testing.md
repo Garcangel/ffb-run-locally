@@ -6,23 +6,36 @@ This document explains how to launch local FFB games for development/testing usi
 
 ## TL;DR
 
-1. **Edit `local-teams.json`** with your teams and coaches.
-2. **Start the server:**
+1. **After compiling, run:**
+   `node extract.js`
+2. **Edit `local-teams.json`** with your teams and coaches.
+3. **Start the server:**
    `node runServer.js`
-3. **Start the game clients:**
+4. **Start the game clients:**
    `node startGames.js`
    (or `node startGames.js 1` for the first, `node startGames.js 2` for the second)
-4. **If prompted, restart the server** after any new teams/rosters are downloaded.
+5. **If prompted, restart the server** after any new teams/rosters are downloaded.
+6. **To spectate the game:**
+   `node spectate.js`
+   (or `node spectate.js YourCoachName` for a custom coach name)
 
 ---
 
-_(Then continue with the detailed guide as before.)_
+## 1. **After Compiling**: Extract Updated Server & Client
+
+**Whenever you compile a new server or client:**
+
+- **Run:**
+
+  ```
+  node extract.js
+  ```
+
+- This extracts the latest Java server and client files into the `/server` and `/client` folders used by your local test scripts.
 
 ---
 
-If you want it even shorter or with inline code, let me know!
-
-## 1. **Edit Your Teams/Coaches**
+## 2. **Edit Your Teams/Coaches**
 
 - Open `local-teams.json` in the root.
 - Edit team IDs, coach names, and passwords as needed.
@@ -36,7 +49,7 @@ If you want it even shorter or with inline code, let me know!
 
 ---
 
-## 2. **Start the Server**
+## 3. **Start the Server**
 
 - From root, run:
 
@@ -46,7 +59,7 @@ If you want it even shorter or with inline code, let me know!
 
 ---
 
-## 3. **Start the Game Clients**
+## 4. **Start the Game Clients**
 
 - In a new terminal, run:
 
@@ -65,7 +78,7 @@ If you want it even shorter or with inline code, let me know!
 
 ---
 
-## 4. **Automatic Setup**
+## 5. **Automatic Setup**
 
 - If a required team or roster XML is missing, the script downloads it automatically.
 - If any files are downloaded, you will see:
@@ -79,7 +92,7 @@ If you want it even shorter or with inline code, let me know!
 
 ---
 
-## 5. **Where Do I Configure?**
+## 6. **Where Do I Configure?**
 
 - All team/coach info is read from `local-teams.json`.
 - The server must be running from the `server/` folder (`runServer.js` does this for you).
@@ -87,7 +100,27 @@ If you want it even shorter or with inline code, let me know!
 
 ---
 
-## 6. **FAQ**
+## 7. **Start a Spectator Client**
+
+- To launch a spectator client (view-only, no team control):
+
+  ```
+  node spectate.js
+  ```
+
+  - To use a custom coach name:
+
+    ```
+    node spectate.js YourCoachName
+    ```
+
+  - By default, the coach name is **Testito**.
+
+- The spectator client connects to `localhost:22227`.
+
+---
+
+## 8. **FAQ**
 
 **Q: Can I change teams/coaches without restarting the server?**
 A: Only if the XMLs are already present. If new teams/rosters are downloaded, restart the server.

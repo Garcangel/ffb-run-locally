@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team id="1084008" status="7">
+  <coach>Bazakastine</coach>
+  <name>Houston Treants</name>
+  <rosterId>4979</rosterId>
+  <reRolls>6</reRolls>
+  <dedicatedFans>6</dedicatedFans>
+  <apothecaries>1</apothecaries>
+  <cheerleaders>0</cheerleaders>
+  <assistantCoaches>0</assistantCoaches>
+  <rating>198</rating>
+  <teamValue>2090000</teamValue>
+  <currentTeamValue>1980000</currentTeamValue>
+  <strength>198</strength>
+  <division>5</division>
+  <treasury>275000</treasury>
+  <tournamentWeight>2090000</tournamentWeight>
+  <specialRules>
+    <rule>Elven Kingdoms League</rule>
+  </specialRules>
+  <record>
+    <form>WDWWL</form>
+    <wins>29</wins>
+    <ties>11</ties>
+    <losses>7</losses>
+  </record>
+  <lastMatch date="2023-12-27" opponent="1085641">4510795</lastMatch>
+  <baseIconPath>https://cdn.fumbbl.com/</baseIconPath>
+  <logo>i/663403</logo>
+  <player status="Active" nr="3" id="14939451">
+    <name>Stan Jones {MD}</name>
+    <gender>female</gender>
+    <positionId>37848</positionId>
+    <position>Wardancer</position>
+    <playerStatistics currentSpps="19">
+      <completions>1</completions>
+      <touchdowns>10</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>5</casualties>
+      <mvps>2</mvps>
+      <passing>2</passing>
+      <rushing>141</rushing>
+      <blocks>219</blocks>
+      <fouls>0</fouls>
+      <games>45</games>
+    </playerStatistics>
+    <skillList>
+      <skill>+AG</skill>
+      <skill>+ST</skill>
+      <skill>Side Step</skill>
+      <skill>Strip Ball</skill>
+      <skill>Tackle</skill>
+      <skill>Wrestle</skill>
+    </skillList>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="4" id="15953521">
+    <name>Tank Dell</name>
+    <gender>nonbinary</gender>
+    <positionId>37847</positionId>
+    <position>Catcher</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>2</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>19</rushing>
+      <blocks>2</blocks>
+      <fouls>0</fouls>
+      <games>4</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+    </skillList>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="5" id="15894693">
+    <name>Nico Collins</name>
+    <gender>male</gender>
+    <positionId>37847</positionId>
+    <position>Catcher</position>
+    <playerStatistics currentSpps="2">
+      <completions>0</completions>
+      <touchdowns>2</touchdowns>
+      <interceptions>1</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>12</rushing>
+      <blocks>1</blocks>
+      <fouls>0</fouls>
+      <games>5</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Block</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="6" id="15698462">
+    <name>Justin Fields [BRO]</name>
+    <gender>nonbinary</gender>
+    <positionId>37846</positionId>
+    <position>Thrower</position>
+    <playerStatistics currentSpps="24">
+      <completions>23</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>1</mvps>
+      <passing>51</passing>
+      <rushing>123</rushing>
+      <blocks>1</blocks>
+      <fouls>0</fouls>
+      <games>15</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Accurate</skill>
+      <skill>Cannoneer</skill>
+      <skill>Dodge</skill>
+      <skill>Safe Pass</skill>
+      <skill>Sure Hands</skill>
+    </skillList>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="7" id="15967088">
+    <name>Christian Harris</name>
+    <gender>female</gender>
+    <positionId>37845</positionId>
+    <position>Wood Elf Lineman</position>
+    <playerStatistics currentSpps="3">
+      <completions>0</completions>
+      <touchdowns>1</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>3</rushing>
+      <blocks>1</blocks>
+      <fouls>0</fouls>
+      <games>3</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="8" id="15616663">
+    <name>Dylan Horton</name>
+    <gender>male</gender>
+    <positionId>37845</positionId>
+    <position>Wood Elf Lineman</position>
+    <playerStatistics currentSpps="1">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>7</rushing>
+      <blocks>36</blocks>
+      <fouls>2</fouls>
+      <games>16</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Wrestle</skill>
+    </skillList>
+    <injuryList>
+      <injury>Serious Injury (NI)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="9" id="15914850">
+    <name>Michael Deiter</name>
+    <gender>female</gender>
+    <positionId>37845</positionId>
+    <position>Wood Elf Lineman</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>5</blocks>
+      <fouls>0</fouls>
+      <games>4</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="10" id="15980173">
+    <name>Noah Brown</name>
+    <gender>nonbinary</gender>
+    <positionId>37847</positionId>
+    <position>Catcher</position>
+    <playerStatistics currentSpps="0">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>0</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>0</blocks>
+      <fouls>0</fouls>
+      <games>2</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="11" id="15348972">
+    <name>Charles M. Schultz [UmGO]</name>
+    <gender>male</gender>
+    <positionId>37845</positionId>
+    <position>Wood Elf Lineman</position>
+    <playerStatistics currentSpps="11">
+      <completions>0</completions>
+      <touchdowns>5</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>5</casualties>
+      <mvps>3</mvps>
+      <passing>0</passing>
+      <rushing>41</rushing>
+      <blocks>141</blocks>
+      <fouls>0</fouls>
+      <games>31</games>
+    </playerStatistics>
+    <skillList>
+      <skill>+ST</skill>
+      <skill>Block</skill>
+      <skill>Defensive</skill>
+      <skill>Dodge</skill>
+      <skill>Guard</skill>
+    </skillList>
+    <injuryList/>
+  </player>
+  <player status="Active" nr="12" id="15616665">
+    <name>Henry To'oto'o</name>
+    <gender>nonbinary</gender>
+    <positionId>37845</positionId>
+    <position>Wood Elf Lineman</position>
+    <playerStatistics currentSpps="7">
+      <completions>1</completions>
+      <touchdowns>3</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>1</mvps>
+      <passing>-1</passing>
+      <rushing>32</rushing>
+      <blocks>43</blocks>
+      <fouls>0</fouls>
+      <games>16</games>
+    </playerStatistics>
+    <skillList>
+      <skill>Dodge</skill>
+      <skill>Wrestle</skill>
+    </skillList>
+    <injuryList>
+      <injury recovering="true">Serious Injury (NI)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="13" id="14939465">
+    <name>Veronica Surehands [USC]</name>
+    <gender>female</gender>
+    <positionId>37847</positionId>
+    <position>Catcher</position>
+    <playerStatistics currentSpps="56">
+      <completions>0</completions>
+      <touchdowns>26</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>2</mvps>
+      <passing>0</passing>
+      <rushing>384</rushing>
+      <blocks>10</blocks>
+      <fouls>0</fouls>
+      <games>44</games>
+    </playerStatistics>
+    <skillList>
+      <skill>+AG</skill>
+      <skill>+MA</skill>
+      <skill>Block</skill>
+      <skill>Guard</skill>
+      <skill>Side Step</skill>
+      <skill>Sprint</skill>
+    </skillList>
+    <injuryList>
+      <injury>Broken Arm (-PA)</injury>
+      <injury>Broken Arm (-PA)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+      <injury>Seriously Hurt (MNG)</injury>
+    </injuryList>
+  </player>
+  <player status="Active" nr="16" id="15980174">
+    <name>Dalton Schultz</name>
+    <gender>nonbinary</gender>
+    <positionId>37845</positionId>
+    <position>Wood Elf Lineman</position>
+    <playerStatistics currentSpps="4">
+      <completions>0</completions>
+      <touchdowns>0</touchdowns>
+      <interceptions>0</interceptions>
+      <casualties>0</casualties>
+      <mvps>1</mvps>
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <blocks>3</blocks>
+      <fouls>0</fouls>
+      <games>2</games>
+    </playerStatistics>
+    <skillList/>
+    <injuryList/>
+  </player>
+</team>
