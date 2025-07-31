@@ -23,10 +23,7 @@ function extractZip(zipPath, destDir) {
     console.error(`File not found: ${zipPath}`);
     process.exit(1);
   }
-  // Clear destination dir (optional, comment if not wanted)
-  // if (fs.existsSync(destDir)) fs.rmSync(destDir, { recursive: true, force: true });
 
-  // Ensure destination dir exists
   fs.mkdirSync(destDir, { recursive: true });
 
   const zip = new AdmZip(zipPath);
