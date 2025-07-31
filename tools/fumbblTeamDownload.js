@@ -1,8 +1,5 @@
-// fumbblTeamDownload.js
 const fs = require("fs").promises;
 const path = require("path");
-
-// Use global fetch in Node 18+, else: const fetch = require('node-fetch');
 
 function prettyPrintXml(xml) {
   let formatted = "";
@@ -59,10 +56,8 @@ async function main() {
     console.error("Usage: node fumbblTeamDownload.js <teamId>");
     process.exit(1);
   }
-  // Download and save team XML
   const xml = await downloadTeamXml(teamId);
 
-  // Extract rosterId from XML (regex: <rosterId>1234</rosterId>)
   const match = xml.match(/<rosterId>(\d+)<\/rosterId>/);
   if (match) {
     const rosterId = match[1];

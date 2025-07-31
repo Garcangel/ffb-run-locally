@@ -10,11 +10,9 @@ const repoRoot = process.argv[2]
   ? path.resolve(process.argv[2])
   : path.resolve(__dirname, "../cloneTest/ffb");
 
-// ZIP locations in repo
 const serverZip = path.join(repoRoot, "ffb-server/target/ffb-server.zip");
 const clientZip = path.join(repoRoot, "ffb-client/target/ffb-client.zip");
 
-// Extraction destinations (relative to tools/)
 const destServer = path.join(__dirname, "./server");
 const destClient = path.join(__dirname, "./client");
 
