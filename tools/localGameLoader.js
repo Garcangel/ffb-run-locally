@@ -58,7 +58,6 @@ async function ensureCoachInDb(dbConfig, coach, password) {
     await db.end();
     return md5pass;
   } else {
-    // Return existing hash
     await db.end();
     return rows[0].password;
   }
@@ -137,7 +136,6 @@ module.exports = async function (teamIdx) {
     process.exit(1);
   }
 
-  // Use platform-specific classpath separator
   const cpSep = process.platform === "win32" ? ";" : ":";
   const cp =
     "FantasyFootballClient.jar" +
